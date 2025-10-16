@@ -27,7 +27,7 @@
 ### Etap Rapid / Quick Steps
 
 #### 1. Kreye kont GitHub / Create GitHub account
-👉 [github.com/signup](https://github.com/signup)
+👉 [GitHub.com/signup](https://github.com/signup)
 
 #### 2. Kreye repo / Create repository
 - Klike "+" → "New repository"
